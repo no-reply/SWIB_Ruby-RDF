@@ -7,9 +7,10 @@ Resources
   * [RDF 1.1 Concepts & Abstract Syntax](http://www.w3.org/TR/rdf11-concepts/)
     * [Graph](http://www.w3.org/TR/rdf11-concepts/#section-rdf-graph)
     * [Literal](http://www.w3.org/TR/rdf11-concepts/#section-Graph-Literal)
-* Ruby Reference
+* Ruby Reference/Tools
   * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
   * [Bundler](http://bundler.io/)
+  * [RSpec](http://rspec.info/); Test Driven Development framework
   * [Pry](http://pryrepl.org/); an alternative Ruby REPL
   * [Enumerable](http://ruby-doc.org/core-2.2.3/Enumerable.html)
   * [IO](http://ruby-doc.org/core-2.2.3/IO.html)

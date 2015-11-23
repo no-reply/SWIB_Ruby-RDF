@@ -12,3 +12,5 @@ gem 'linkeddata'
 gem 'rdf-yoda_triples', github: 'no-reply/rdf-yoda_triples'
 
 gem 'sinatra'
+
+gem 'active-triples'

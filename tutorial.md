@@ -4,7 +4,7 @@ RDF.rb Tutorial
 Install Ruby
 ------------
 
-See the official (Ruby install instructions)[https://www.ruby-lang.org/en/documentation/installation/].
+See the official Ruby [install instructions](https://www.ruby-lang.org/en/documentation/installation/).
 
 You'll want to install the Ruby language,
 [RubyGems](https://rubygems.org/pages/download), and [Bundler](http://bundler.io).
@@ -176,6 +176,11 @@ RDF.rb Overview
 * [RDF::Writable](http://rdf.greggkellogg.net/yard/RDF/Writable.html)
 
 `RDF::Graph` includes Countable, Durable, Enumerable, Mutable, & Queryable.
+
+RDF Term Equality
+-----------------
+
+
 
 Beyond Hello World
 ------------------
