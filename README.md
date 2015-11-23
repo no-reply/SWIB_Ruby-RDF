@@ -5,7 +5,7 @@ Contents
 --------
 
  * [Tutorial](tutorial.md)
- * [ActiveTriples Tutorial](./active_triples.md)
+ * [ActiveTriples Tutorial](./active_triples.rb)
    * [Tutorial files](./at-tutorial)
  * [Resources](resources.md)
  * [Examples](./examples)

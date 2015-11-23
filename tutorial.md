@@ -403,7 +403,6 @@ You can interact with a repository directly with
 
 ```ruby
 repo = RDF::Repository.new
-
 ```
 
 ### Named Graphs
@@ -467,7 +466,7 @@ sparql = SPARQL::Client.new(repository)
 ActiveTriples
 -------------
 
-See [active_triples.md](active_triples.md).
+See [active_triples.rb](active_triples.rb).
 
 Extras
 ------
