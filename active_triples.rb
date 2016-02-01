@@ -17,7 +17,7 @@
 require 'active_triples'
 
 class CHO
- 
+  include ActiveTriples::RDFSource
   property :title, predicate: RDF::DC.title
 end
 
